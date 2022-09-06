@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=N5Q3t-rW-aA
 ### 🕸 Used NetWork Method (POST : URLSession , GET : Alamofire)
 
 1. Users
-   1.1 전화번호로 회원가입
+  * 1.1 전화번호로 회원가입
 
 ---
 
